@@ -18,7 +18,7 @@ This project implements an **AI-powered chatbot** for an **eCommerce website**, 
 ## 🚀 Installation  
 Clone the repository and install dependencies:  
 ```sh
-git clone https://github.com/mfahadrafiq/AI-Chatbot-for-eCommerce.git
+git clone https://github.com/mfahadrafiq/AI Chatbot for eCommerce.git
 cd AI-Chatbot-for-eCommerce
 pip install -r requirements.txt
 ```
